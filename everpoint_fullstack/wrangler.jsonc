@@ -11,7 +11,7 @@
   "d1_databases": [
     {
       "binding": "DB",
-      "database_name": "everpoint-holding",
+      "database_name": "ever-pointholding",
       "database_id": "5ebfe98c-7688-44c5-be66-24adb6cd6701"
     }
   ],
